@@ -1,5 +1,6 @@
 Untitled.ipynb
 dataset/
+data/brfss/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
