@@ -35,3 +35,7 @@ List three questions that can be answered using your data. For each question, pr
 * In the comments of your code block, explain *how* your code works. Err on the side of thoroughness.
 * Use language that can be understood by laypersons.
 * **Make sure** I have all files I need to run your notebook code, including any additional files you've created.
+* **Make sure** I can run your notebook, without errors. Before 
+submitting, choose *Kernel&rarr;Restart & Run All*. That will restart
+the Python your notebook is running on and run all the code blocks from
+the beginning.
