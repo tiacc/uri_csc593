@@ -34,8 +34,12 @@ List three questions that can be answered using your data. For each question, pr
 * In the Markdown sections of your notebook, clearly and thoroughly describe *what* you're doing with your data and *why*.
 * In the comments of your code block, explain *how* your code works. Err on the side of thoroughness.
 * Use language that can be understood by laypersons.
+* You can use borrowed code, just be sure to cite it appropriately and thoroughly comment it. It's important to understand how it works. 
+* Submit via git, as usual. Just create your notebook in your repository's `homework` folder.
 * **Make sure** I have all files I need to run your notebook code, including any additional files you've created.
 * **Make sure** I can run your notebook, without errors. Before 
 submitting, choose *Kernel&rarr;Restart & Run All*. That will restart
 the Python your notebook is running on and run all the code blocks from
 the beginning.
+
+#### Due Date: December 20, 2019.
